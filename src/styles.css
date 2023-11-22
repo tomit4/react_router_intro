@@ -1,0 +1,9 @@
+/* The .active class is a special class 
+ * for the NavLink component in react-router 
+ * basically applying (styles in this case) to 
+ * whichever NavLink is currently being viewed, 
+ * i.e. 'is active'*/
+
+.active {
+    color: red;
+}
